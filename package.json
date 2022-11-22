@@ -35,7 +35,7 @@
     "vue-template-compiler": "^2.6.10",
     "vue2-editor": "^2.10.2",
     "vuebars": "^0.1.5",
-    "vuelayers": "^0.7.5",
+    "vuelayers": "^0.12.6",
     "vuex": "^2.0.0",
     "vux": "^2.9.4"
   },
@@ -73,7 +73,7 @@
     "inject-loader": "^2.0.1",
     "isparta-loader": "^2.0.0",
     "json-loader": "^0.5.4",
-    "karma": "^1.3.0",
+    "karma": "^6.4.1",
     "karma-coverage": "^1.1.2",
     "karma-mocha": "^1.2.0",
     "karma-phantomjs-launcher": "^1.0.0",
